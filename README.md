@@ -15,4 +15,4 @@ En réponse à la demande croissante de transparence de la part des clients conc
 - Mise en production du modèle de scoring via une API, ainsi que le déploiement du tableau de bord interactif qui utilise l'API pour les prédictions.
 - Création d'un tableau de bord avec Dash Plotly, hébergé sur PythonAnywhere.
 
-Le tableau de bord est accessible [ici](http://dash-patriciadubray.pythonanywhere.com/)
+Le tableau de bord est accessible [ici](https://badri47.pythonanywhere.com/) 
